@@ -1,0 +1,3 @@
+-p 80:80
+-v $DATA_ENV_DIR/blog:/data
+-v $PROJECTS_DIR/blog:/var/www
